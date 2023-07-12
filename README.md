@@ -1,8 +1,11 @@
 # **Terraform-EC2-RDS**
 
+![bash-terraform drawio (2)](https://github.com/Ab-Rehman99/Terraform-EC2-RDS/assets/85974328/f27e72ba-40a5-4fef-b8d7-049f16128e41)
+
 This repository contains  Terraform configurations and bash scripts to create an EC2 instance in AWS running a PHP Apache application and a MySQL RDS instance as the database.
 
 ## **Prerequisites**
+
 
 Before running the Terraform scripts, you need to have the following prerequisites installed and configured:
 
