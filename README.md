@@ -10,7 +10,7 @@ This repository contains  Terraform configurations and bash scripts to create an
 Before running the Terraform scripts, you need to have the following prerequisites installed and configured:
 
 1. **[AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)**
-2. **[Terraform](https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started)**
+2. **[Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)**
 
 Make sure you have properly configured AWS programmatic access using the **`aws configure`** command. This will require your AWS Access Key ID, Secret Access Key, and default region.
 
