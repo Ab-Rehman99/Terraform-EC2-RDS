@@ -16,7 +16,6 @@ Make sure you have properly configured AWS programmatic access using the **`aws 
 1. Run the **`bash_terraform.sh`** script to create the infrastructure in AWS:
     
     ```
-    bashCopy code
     ./bash_terraform.sh
     
     ```
@@ -27,7 +26,6 @@ Make sure you have properly configured AWS programmatic access using the **`aws 
 3. To destroy the infrastructure and clean up all the resources, run the **`bash_destroy.sh`** script:
     
     ```
-    bashCopy code
     ./bash_destroy.sh
     
     ```
